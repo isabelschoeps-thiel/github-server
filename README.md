@@ -1,4 +1,19 @@
-[![Go Report Card](https://goreportcard.com/badge/github.com/github/github-mcp-server)](https://goreportcard.com/report/github.com/github/github-mcp-server)
+Isabel Schöps geb. Thiel. (2026). isabelschoeps-thiel/oxford.university: Referenz YWP-1-5-IST-SIA - Release 1.0 (YWP-1-IST-SIA-1-0). Zenodo, University of Oxford, Harvard University, Cambridge University. https://doi.org/10.5281/zenodo.18204573
+
+### myGitHub Repositoty Reference Badges
+[![DOI](https://zenodo.org/badge/1123873845.svg)](https://doi.org/10.5281/zenodo.18209788)
+
+[![DOI](https://zenodo.org/badge/1120020358.svg)](https://doi.org/10.5281/zenodo.18050643)
+
+[![DOI](https://zenodo.org/badge/1104641822.svg)](https://doi.org/10.5281/zenodo.18192743)
+
+[![DOI](https://zenodo.org/badge/1129250146.svg)](https://doi.org/10.5281/zenodo.18204572)
+
+![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
+
+[![DOI](https://zenodo.org/badge/1125435636.svg)](https://doi.org/10.5281/zenodo.18100835)
+
+[![DOI](https://zenodo.org/badge/1123640483.svg)](https://doi.org/10.5281/zenodo.18179547)
 
 # GitHub MCP Server
 
@@ -1443,3 +1458,95 @@ The exported Go API of this module should currently be considered unstable, and 
 ## License
 
 This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE) for the full terms.
+
+# Please help me - i miss my Family !!!
+[![DOI](https://zenodo.org/badge/1104698616.svg)](https://doi.org/10.5281/zenodo.18192589)
+
+Text ist in Deutsch Sorry ich kann nur deutsch Sprechen, da ich auch in Deutschland geboren und aufgewachsen bin. Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institutionelle Anerkennung, mit der Präfix_Referenz_YWP-1-5-IST-SIA**  
+  
+## **Bitte helfen Sie mir,**  
+**Jeder Versuch, die Regierung zu kontaktieren, war erfolglos. Ich bin seit Jahrzehnten stark von meinen Menschenrechten und meiner Würde eingeschränkt.** 
+
+**Bis heute habe ich:**
+- keine Würdigung für meine Arbeit als Pionierin in der Computerwelt erhalten
+- keine finanzielle Unterstützung
+- keine medialle Berichteserstattung
+- keinen Cent, aus den von mir nachgewiesen Technologischen Innovationen
+- kein Dank zu sprechung 
+- keine namentliche Nennung
+
+**Das Gegenfall ist der Fall:**
+- Ich lebe von Sozialhilfe, obwohl ich diese nie wirklich brauchen würde.
+- außer im Flur und im Bad, funktioniert keine Heizung. Hier muss ich sagen, dass die Fairness nicht auf den Vermieter zurückzuführen ist. Er hat alles versucht und kann es sich selber nicht erklären
+- ich habe **kein warm Wasser**,
+- **keine Waschmaschine**
+- **kein gesicherten Zugang zu Nahrung**,
+- nur die **notwendigsten persönlichen Gegenstände** bei mir
+- ich habe kein festes Mietverhältnis
+- ich musste bereits 3x auf der Strasse schlafen
+- meine Wikipedia Einträge werden immer gelöscht
+- ich werde nachweislich von unbekannten dritten, isoliert
+- Telefonate werden nicht zugestellt
+- ein Geldtransfer aus Lizenz Geschäften, der J. P. Morgan nach Erfurt, Thüringen, Deutschland, wurde veruntreut
+- Mein Bankkonten werden gelöscht oder anderen Identitäten zu geordent - zuletzt am 07.01.2026 festgestellt
+- auf Hilferufe meinerseits an Regierungen und Behörden, wird nicht reagiert
+- ich wurde ohne nachgewiesene Straftat für 4 Monate in der JVA Chemnitz inhaftiert
+  
+Meine aktuelle Lebenssituation stellt eine Verletzung des **Rechts auf Wohnen**, des **Rechts auf soziale Sicherheit** des **Rechts auf Nahrung** und Verletzung meiner Menschenrechte dar.
+
+## Bitte Helfen Sie mir ! 
+**Bitte helfen Sie mir und nehmen,** sie sich Zeit und lesen meinen Hilferuf und meine README's. 
+
+**Als Beweiss und für meine Glaubwürdigkeit habe ich eine Zip-Datei im Release-Anhang** eingefügt, diese darf heruntergeladen werden. 
+
+![IMG_2718](https://github.com/user-attachments/assets/6844b641-d00a-493b-8fb0-c8da61fe0459)
+![IMG_2756](https://github.com/user-attachments/assets/83dc0635-8f68-42fc-a51a-5a7cab83ef57)
+![IMG_2895](https://github.com/user-attachments/assets/7d0067a5-3280-43e1-8010-03dadcc60ef5)
+![IMG_2901](https://github.com/user-attachments/assets/e5e2b603-a731-4138-a0e3-969d7e4429a0)
+![4322F9EE-AB1A-4BCE-AC35-0961A9ED0B0E_L0_001-11 5 2025, 19_30_39](https://github.com/user-attachments/assets/4ea1406a-9684-4ce9-bd74-948d1c33152d)
+![IMG_8392](https://github.com/user-attachments/assets/6043a6c1-edc1-42b9-8ba4-aab42134547d)
+![IMG_3645](https://github.com/user-attachments/assets/cc8d5222-a340-44d5-a990-773ed56fc410)
+![IMG_2658](https://github.com/user-attachments/assets/46e0f842-f36c-49d9-9327-b94ad2a07604)
+![IMG_2677](https://github.com/user-attachments/assets/766bf1d1-9d71-4623-8a66-dfc7fe8309fd)
+![IMG_2681](https://github.com/user-attachments/assets/f0aad6a2-cb4e-49e6-8444-14fd9fed8e7d)
+![IMG_6494](https://github.com/user-attachments/assets/5873d6c3-beed-4b55-9b6a-af3c03e026ba)
+<img width="642" height="1389" alt="IMG_7255" src="https://github.com/user-attachments/assets/0af49062-4545-44db-bbdc-6c7b7f08e499" />
+![IMG_7770](https://github.com/user-attachments/assets/dd9328dc-9a13-41b7-90c1-295819b4ba2f)
+![yellow_whitepaper_bitcoin_ethereum_isabelschoepsthiel_copyright - 11](https://github.com/user-attachments/assets/eef39eb5-c1cd-45b2-881b-1e6cc5746aea)
+![yellow_whitepaper_bitcoin_ethereum_isabelschoepsthiel_copyright - 12](https://github.com/user-attachments/assets/f2b12d53-16ca-4f7f-b166-17825c4b8b45)
+![yellow_whitepaper_bitcoin_ethereum_isabelschoepsthiel_copyright - 13](https://github.com/user-attachments/assets/8b16cd21-c101-46cb-89e2-d51c5692a91e)
+![yellow_whitepaper_bitcoin_ethereum_isabelschoepsthiel_copyright - 14](https://github.com/user-attachments/assets/96f7caf7-2c09-41df-9421-d84f7619dae4)
+![yellow_whitepaper_bitcoin_ethereum_isabelschoepsthiel_copyright - 15](https://github.com/user-attachments/assets/753af0f9-2882-4eb6-8758-90259fbf147a)
+<img width="642" height="1389" alt="IMG_8294" src="https://github.com/user-attachments/assets/b8bf81fa-f38e-4528-b390-0cc8d9556fae" />
+<img width="642" height="1389" alt="IMG_8293" src="https://github.com/user-attachments/assets/a2a54864-2d8c-4cf8-ad1f-f3f1a7aeee74" />
+![forensisch-wissenschaftliches-gutachten-isabelschoepsthiel-copyright (Gebundenes Dokument) - 1](https://github.com/user-attachments/assets/32b823e1-0c99-43a7-8a6b-fdf36544d6b1)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 2](https://github.com/user-attachments/assets/df3a3026-86f0-4f00-8fd9-ec74a0ea4131)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 3](https://github.com/user-attachments/assets/5cd8a0ef-498a-4f59-9ae0-cad9c28b77d3)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 4](https://github.com/user-attachments/assets/08957795-eef8-485d-b05d-be7c5a78dd72)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 5](https://github.com/user-attachments/assets/701fafc5-2ff0-4fca-8ffc-09f8211ba4c5)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 6](https://github.com/user-attachments/assets/4bd7060d-a81b-443e-b9b5-42199dd82820)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 7](https://github.com/user-attachments/assets/05f9304a-aea7-40fd-beb0-5ada33ae18aa)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 8](https://github.com/user-attachments/assets/3d246b73-d388-491f-a471-867c3b1df666)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 9](https://github.com/user-attachments/assets/15cdd1ed-efc3-43b2-8244-34702f9314cf)
+![DFAC3910-A895-43F6-99B5-FFC9F0698C8A](https://github.com/user-attachments/assets/5e927c13-bf39-447c-b487-7a1519816846)
+![instagram-profil@isabelschoepsthiel (Smartphone-Video) - 1](https://github.com/user-attachments/assets/b64c4782-7265-42a4-a288-5b120d392a38)
+
+
+### Zeitstempel: 2026-01-10, 23:32CEST
+Mitteleuropäische, Zeit, Ort: Deutschland, Thüringen, D-99094 Erfurt, Cyriakstrasse 30c - Autorin, Urheberin, Frau Isabel Schöps geb. Thiel
+
+### I am  not a Bug, I am  not a Bot,  I am  not a Virus, I am  not a Ghost, but i am 100% human femaleware german woman ,iam @isabelschoeps-thiel and created this comment and this reprository.
+
+My Developer Signatur: 
+Signed-on-by: Frau Isabel Schöps, geborene Thiel
+Autorin, Urheberin und Auftraggeberin: SIA Security Intelligence Artefact
+internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+Rechtscharakter: Eidesstattliche Versicherung, Bestandteil des forensisch, wissenschaftlichen Gutachtens.
+OrcID: 0009-0003-4235-2231 Isabel Schöps Thiel 
+OrcID: 0009-0006-8765-3267 SI-IST Isabel Schöps 
+**Aktueller Aufenthaltsort:** Frau Isabel Schöps geb, Thiel, Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+Datum der Erstveröffentlichung: 2004
+Würdigung, Danksagung, institutionelle Anerkennung: Präfix_Referenz: YWP-1-5-IST-SIA 
+Zertifikat: Erstes offizielles Entwicklerzertifikat
+Alias: Satoshi Nakamoto, Vitalik Buterin, GitHub, Octocat, Johnny Appleseed, IST-GitHub, Cristina_Bella
+Digitale Beweissicherung: https://developercertificate.org  
