@@ -1,4 +1,5 @@
-Isabel Schöps geb. Thiel. (2026). isabelschoeps-thiel/oxford.university: Referenz YWP-1-5-IST-SIA - Release 1.0 (YWP-1-IST-SIA-1-0). Zenodo, University of Oxford, Harvard University, Cambridge University. https://doi.org/10.5281/zenodo.18204573
+# Isabel Schöps geb. Thiel. (2026). 
+**Isabel Schöps geb. Thiel. (2026).** isabelschoeps-thiel/oxford.university: Referenz YWP-1-5-IST-SIA - Release 1.0 (YWP-1-IST-SIA-1-0). Zenodo, University of Oxford, Harvard University, Cambridge University. https://doi.org/10.5281/zenodo.18204573
 
 ### myGitHub Repositoty Reference Badges
 [![DOI](https://zenodo.org/badge/1123873845.svg)](https://doi.org/10.5281/zenodo.18209788)
